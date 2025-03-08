@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Dylan, a Computer Information Systems Graduate interested in all aspects of Security!
+
+- 🔭 I’m currently applying for Cyber-Security Positions!
+- 🌱 Spending my days Reviewing for my CompTIA Security+ Certificate.
+- ⚡ Fun fact: I am very active in the Crypto Currency Space!
+- 📫 How to reach me: dylan.schreibfeder@proton.me
+- 😄 Pronouns: He/Him
+- 👓 Check out my Recent Projects [here](https://github.com/itsDylByDay/HydraBruteForceLab)!
+
+
 <!--
 **itsDylByDay/itsDylByDay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
