@@ -1,6 +1,7 @@
-## Hi there 👋
+## Welcome! 👽
 
-My name is Dylan, a Computer Information Systems Graduate interested in all aspects of Security!
+
+My name is Dylan, a CIS Graduate interested in all aspects of Security!
 
 - 🔭 I’m currently applying for Cyber-Security Positions!
 - 🌱 Spending my days Reviewing for my CompTIA Security+ Certificate.
