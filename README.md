@@ -4,7 +4,7 @@
 My name is Dylan, a CIS Graduate interested in all aspects of Security!
 
 - 🔭 I’m currently applying for Cyber-Security Positions!
-- 🌱 Spending my days Reviewing for my CompTIA Security+ Certificate.
+- 🌱 I just achieved my CompTIA Security+ Cert!
 - ⚡ Fun fact: I am very active in the Crypto Currency Space!
 - 📫 How to reach me: dylan.schreibfeder@proton.me
 - 😄 Pronouns: He/Him
